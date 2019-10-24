@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Debugging Stuff
 
-*[Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG.md
+*[Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG.md)
 
 ## AWS
 
