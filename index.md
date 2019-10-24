@@ -14,7 +14,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Elasticbeanstalk
 
-* [Install Elasticbeanstalk](https://timogoosen.github.io/INSTALL_EB)
+* [Install Elasticbeanstalk CLI Tools](https://timogoosen.github.io/INSTALL_EB)
+* [Use  Elasticbeanstalk CLI Tools](https://timogoosen.github.io/USE_EB)
+
 
 ### Jekyll Themes
 
