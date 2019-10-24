@@ -8,7 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+## Ansible
 
+Debugging Stuff
+
+*[Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG.md
 
 ## AWS
 
@@ -16,6 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 * [Install Elasticbeanstalk CLI Tools](https://timogoosen.github.io/INSTALL_EB)
 * [Use  Elasticbeanstalk CLI Tools](https://timogoosen.github.io/USE_EB)
+
 
 
 ### Jekyll Themes
