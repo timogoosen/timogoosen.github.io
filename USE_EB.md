@@ -66,3 +66,12 @@ $ eb create --instance_type t2.micro --database.engine mysql --database.username
 
 RDS Password:
 ```
+
+
+## Enable Cloudwatch Instance logs
+
+You can enable instance logs for Elasticbeanstalk that will log to Cloudwatch. This can be done via the command line with:
+```
+$ eb logs --cloudwatch-logs enable
+
+```
