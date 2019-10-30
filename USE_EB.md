@@ -58,3 +58,11 @@ $ eb events -f
 
 ```
 
+## Create env with RDS also configured:
+
+You can create an environment with RDS with the following:
+```
+$ eb create --instance_type t2.micro --database.engine mysql --database.username dbuser eb-poc-env-with-rds
+
+RDS Password:
+```
