@@ -7,11 +7,11 @@ These are my personal notes while my wiki is being migrated and down.
 
 Debugging Stuff
 
-*[Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG)
+* [Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG)
 
 ## AWS
 
-*[Use AWS Certificate Manager](https://timogoosen.github.io/AWS_CERTIFICATE_MANAGER)
+* [Use AWS Certificate Manager](https://timogoosen.github.io/AWS_CERTIFICATE_MANAGER)
 
 ### Elasticbeanstalk
 
