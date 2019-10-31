@@ -22,6 +22,6 @@ Debugging Stuff
 
 ## PHP
 
-*[Using Beanstalkd for Queing](https://timogoosen.github.io/USING_BEANSTALKD)
+* [Using Beanstalkd for Queing](https://timogoosen.github.io/USING_BEANSTALKD)
 
 
