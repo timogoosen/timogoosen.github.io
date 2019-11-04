@@ -23,6 +23,9 @@ Debugging Stuff
 
 * [Install Elasticbeanstalk CLI Tools](https://timogoosen.github.io/INSTALL_EB)
 * [Use  Elasticbeanstalk CLI Tools](https://timogoosen.github.io/USE_EB)
+* [EB With RDS](https://timogoosen.github.io/EB_WITH_RDS)
+
+
 
 ### S3
 
