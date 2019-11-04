@@ -2,6 +2,10 @@
 
 These are my personal notes while my wiki is being migrated and down.
 
+## Docker
+
+* [Ultimate Docker Cheat Sheet by Ruan Bekker](https://gist.github.com/ruanbekker/4e8e4ca9b82b103973eaaea4ac81aa5f)
+
 
 ## Ansible
 
@@ -13,15 +17,23 @@ Debugging Stuff
 
 * [Use AWS Certificate Manager](https://timogoosen.github.io/AWS_CERTIFICATE_MANAGER)
 
+
+
 ### Elasticbeanstalk
 
 * [Install Elasticbeanstalk CLI Tools](https://timogoosen.github.io/INSTALL_EB)
 * [Use  Elasticbeanstalk CLI Tools](https://timogoosen.github.io/USE_EB)
 
+### S3
+
+* [S3 CLI](https://timogoosen.github.io/S3_CLI)
+
+### IAM
+
+* [AWS Policy Generator](http://awspolicygen.s3.amazonaws.com/policygen.html)
+
 
 
 ## PHP
 
-* [Using Beanstalkd for Queing](https://timogoosen.github.io/USING_BEANSTALKD)
-
-
+*[Using Beanstalkd for Queing](https://timogoosen.github.io/USING_BEANSTALKD)
