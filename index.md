@@ -12,6 +12,7 @@ These are my personal notes while my wiki is being migrated and down.
 Debugging Stuff
 
 * [Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG)
+*[Getting back into Ansible](https://medium.com/devopsontheblock/getting-back-into-ansible-5aa22913cda)
 
 ## AWS
 
@@ -44,6 +45,7 @@ Debugging Stuff
 *[Using Beanstalkd for Queing](https://timogoosen.github.io/USING_BEANSTALKD)
 
 
-## General Tools:
+## General Tools
 
+*[Vim](https://timogoosen.github.io/VIM)
 *[Tmux Useful](https://timogoosen.github.io/TMUX)
