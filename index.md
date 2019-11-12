@@ -21,6 +21,9 @@ Debugging Stuff
 ### Cost Savings
 
 * [Use Cloudmapper to find unused resources](https://timogoosen.github.io/CLOUDMAPPER)
+* [AWS Billing Alerts](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)
+
+
 
 ### Elasticbeanstalk
 
@@ -45,7 +48,12 @@ Debugging Stuff
 *[Using Beanstalkd for Queing](https://timogoosen.github.io/USING_BEANSTALKD)
 
 
+## Nginx
+
+*[Nginx General](https://timogoosen.github.io/NGINX)
+
+
 ## General Tools
 
-*[Vim](https://timogoosen.github.io/VIM)
-*[Tmux Useful](https://timogoosen.github.io/TMUX)
+* [Vim](https://timogoosen.github.io/VIM)
+* [Tmux Useful](https://timogoosen.github.io/TMUX)
