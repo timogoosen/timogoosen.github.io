@@ -23,7 +23,9 @@ Debugging Stuff
 * [Use Cloudmapper to find unused resources](https://timogoosen.github.io/CLOUDMAPPER)
 * [AWS Billing Alerts](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)
 
+### RDS
 
+*[RDS MySQL Best Practices Cool Presentation](https://wiki.library.ucsf.edu/download/attachments/331679989/rdscustomerwebinarnew2252014-140225143530-phpapp01.pdf)
 
 ### Elasticbeanstalk
 
