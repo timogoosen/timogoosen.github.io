@@ -12,7 +12,7 @@ These are my personal notes while my wiki is being migrated and down.
 Debugging Stuff
 
 * [Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG)
-*[Getting back into Ansible](https://medium.com/devopsontheblock/getting-back-into-ansible-5aa22913cda)
+* [Getting back into Ansible](https://medium.com/devopsontheblock/getting-back-into-ansible-5aa22913cda)
 
 ## AWS
 
