@@ -6,6 +6,10 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [Ultimate Docker Cheat Sheet by Ruan Bekker](https://gist.github.com/ruanbekker/4e8e4ca9b82b103973eaaea4ac81aa5f)
 
+## Bash
+
+* [How to calculate Elapsed Time in Bash](https://unix.stackexchange.com/questions/314365/get-elapsed-time-in-bash)
+
 
 ## Ansible
 
