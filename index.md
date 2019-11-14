@@ -45,6 +45,11 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [AWS Policy Generator](http://awspolicygen.s3.amazonaws.com/policygen.html)
 
+## Kubernetes:
+
+* [Deploying Kubernetes with KOPS and EKSCTL Tutorial](https://www.swipeix.com/blog/deploying-and-managing-kubernetes-on-aws)
+
+
 
 
 ## PHP
