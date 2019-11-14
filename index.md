@@ -13,8 +13,6 @@ These are my personal notes while my wiki is being migrated and down.
 
 ## Ansible
 
-Debugging Stuff
-
 * [Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG)
 * [Getting back into Ansible](https://medium.com/devopsontheblock/getting-back-into-ansible-5aa22913cda)
 
@@ -29,7 +27,7 @@ Debugging Stuff
 
 ### RDS
 
-*[RDS MySQL Best Practices Cool Presentation](https://wiki.library.ucsf.edu/download/attachments/331679989/rdscustomerwebinarnew2252014-140225143530-phpapp01.pdf)
+* [RDS MySQL Best Practices Cool Presentation](https://wiki.library.ucsf.edu/download/attachments/331679989/rdscustomerwebinarnew2252014-140225143530-phpapp01.pdf)
 
 ### Elasticbeanstalk
 
@@ -51,12 +49,12 @@ Debugging Stuff
 
 ## PHP
 
-*[Using Beanstalkd for Queing](https://timogoosen.github.io/USING_BEANSTALKD)
+* [Using Beanstalkd for Queing](https://timogoosen.github.io/USING_BEANSTALKD)
 
 
 ## Nginx
 
-*[Nginx General](https://timogoosen.github.io/NGINX)
+* [Nginx General](https://timogoosen.github.io/NGINX)
 
 
 ## General Tools
