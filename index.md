@@ -48,7 +48,6 @@ These are my personal notes while my wiki is being migrated and down.
 ## Kubernetes:
 
 * [Deploying Kubernetes with KOPS and EKSCTL Tutorial](https://www.swipeix.com/blog/deploying-and-managing-kubernetes-on-aws)
-
 * [EKSCTL Howto](https://timogoosen.github.io/EKSCTL)
 * [KOPS Howto](https://timogoosen.github.io/KOPS)
 
