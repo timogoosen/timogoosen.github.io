@@ -35,7 +35,9 @@ These are my personal notes while my wiki is being migrated and down.
 * [Use  Elasticbeanstalk CLI Tools](https://timogoosen.github.io/USE_EB)
 * [EB With RDS](https://timogoosen.github.io/EB_WITH_RDS)
 
+### Loadbalancers and Route53
 
+* [Routing ELB to Load Balancer Route53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-elb-load-balancer.html)
 
 ### S3
 
@@ -50,6 +52,18 @@ These are my personal notes while my wiki is being migrated and down.
 * [Deploying Kubernetes with KOPS and EKSCTL Tutorial](https://www.swipeix.com/blog/deploying-and-managing-kubernetes-on-aws)
 * [EKSCTL Howto](https://timogoosen.github.io/EKSCTL)
 * [KOPS Howto](https://timogoosen.github.io/KOPS)
+
+### Terraform:
+
+
+#### AWS:
+
+
+
+#### Azure:
+
+* [Does Anyone use Terraform on Azure Reddit Devops Thread](https://old.reddit.com/r/devops/comments/drgjve/does_anyone_use_terraform_for_azure/)
+
 
 
 
