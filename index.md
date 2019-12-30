@@ -13,6 +13,7 @@ These are my personal notes while my wiki is being migrated and down.
 
 ## Ansible
 
+* [Ansible or Debops Tricks](https://timogoosen.github.io/ANSIBLE)
 * [Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG)
 * [Getting back into Ansible](https://medium.com/devopsontheblock/getting-back-into-ansible-5aa22913cda)
 
@@ -81,3 +82,8 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [Vim](https://timogoosen.github.io/VIM)
 * [Tmux Useful](https://timogoosen.github.io/TMUX)
+
+## Proxmox
+
+* [Change Cluster to use Letsencrypt SSL instead of Self Signed](https://pve.proxmox.com/wiki/HTTPS_Certificate_Configuration_(Version_4.x,_5.0_and_5.1))
+* [PVECM Create Cluster](https://pve.proxmox.com/wiki/Cluster_Manager#pvecm_create_cluster)
