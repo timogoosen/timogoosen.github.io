@@ -85,5 +85,4 @@ These are my personal notes while my wiki is being migrated and down.
 
 ## Proxmox
 
-* [Change Cluster to use Letsencrypt SSL instead of Self Signed](https://pve.proxmox.com/wiki/HTTPS_Certificate_Configuration_(Version_4.x,_5.0_and_5.1))
-* [PVECM Create Cluster](https://pve.proxmox.com/wiki/Cluster_Manager#pvecm_create_cluster)
+* [Proxmox Personal Wiki Notes](https://timogoosen.github.io/PROXMOX)
