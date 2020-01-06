@@ -16,6 +16,7 @@ These are my personal notes while my wiki is being migrated and down.
 * [Ansible or Debops Tricks](https://timogoosen.github.io/ANSIBLE)
 * [Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG)
 * [Getting back into Ansible](https://medium.com/devopsontheblock/getting-back-into-ansible-5aa22913cda)
+* [Very Cool How To Forge Tutorial For Complete Ansible Beginner](https://www.howtoforge.com/ansible-guide-create-ansible-playbook-for-lemp-stack/)
 
 ## AWS
 
