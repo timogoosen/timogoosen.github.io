@@ -60,7 +60,7 @@ These are my personal notes while my wiki is being migrated and down.
 
 #### AWS:
 
-
+* [Deploy EC2 Instance with Terraform](https://sysadmins.co.za/deploy-an-ec2-instance-with-terraform/)
 
 #### Azure:
 
