@@ -74,7 +74,9 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [Does Anyone use Terraform on Azure Reddit Devops Thread](https://old.reddit.com/r/devops/comments/drgjve/does_anyone_use_terraform_for_azure/)
 
+## Netdata
 
+* [Net Data Setup Part 1](https://timogoosen.github.io/NETDATA-SETUP-PART1)
 
 
 ## PHP
