@@ -77,7 +77,8 @@ These are my personal notes while my wiki is being migrated and down.
 ## Netdata
 
 * [Net Data Setup Part 1](https://timogoosen.github.io/NETDATA-SETUP-PART1)
-
+* [Netdata Registry Setup Github Wiki for Netdata](https://github.com/netdata/netdata/tree/master/registry#netdata-registry)
+* [Official Docs Registry Section](https://docs.netdata.cloud/registry/)
 
 ## PHP
 
