@@ -98,3 +98,7 @@ These are my personal notes while my wiki is being migrated and down.
 ## Proxmox
 
 * [Proxmox Personal Wiki Notes](https://timogoosen.github.io/PROXMOX)
+
+## Databases
+
+* [Personal MySQL Notes](https://timogoosen.github.io/MYSQL)
