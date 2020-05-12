@@ -111,6 +111,7 @@ These are my personal notes while my wiki is being migrated and down.
 ## Databases
 
 * [Personal MySQL Notes](https://timogoosen.github.io/MYSQL)
+* [Personal PostgreSQL Notes](https://timogoosen.github.io/PSQL)
 
 
 ## Borg and Bormatic
