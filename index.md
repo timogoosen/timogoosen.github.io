@@ -17,9 +17,11 @@ These are my personal notes while my wiki is being migrated and down.
 
 ### Linux
 
+* [Git Stuff](https://timogoosen.github.io/GIT)
+
 ## SELinux
 
-* [All SELinux Personal Notes](https://timogoosen.github.io/SELINUX]
+* [All SELinux Personal Notes](https://timogoosen.github.io/SELINUX)
 
 ## Bash
 

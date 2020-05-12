@@ -23,6 +23,13 @@ Run Ansible play book against localhost:
 [Ansible ssh Error Local host connection](https://stackoverflow.com/questions/37184699/ansible-ssh-error-connection-in-localhost)
 
 
+Add SSH Key to all hosts:
+
+```
+ansible -i ./container-inventory all -m copy -a 'src=./files/customer.pub dest=/home/support/.ssh/authorized_keys mode=0600 owner=support group=support' -e ansible_become=yes -e ansible_ssh_user=timo
+
+```
+
 
 ### Debops
 
