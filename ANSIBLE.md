@@ -30,6 +30,14 @@ ansible -i ./container-inventory all -m copy -a 'src=./files/customer.pub dest=/
 
 ```
 
+Ping users in group:
+
+(Ping users in web group in ansible inventory)
+```
+ansible web -m ping
+
+```
+
 
 ### Debops
 
