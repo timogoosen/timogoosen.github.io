@@ -27,3 +27,20 @@ GRANT SELECT ON ALL TABLES IN SCHEMA public TO symfony_read_only;
 ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT SELECT ON TABLES TO symfony_read_only;
 
 ```
+
+
+Create DB Dump:
+
+```
+ pg_dump wordpress_db > /tmp/wordpress_db.dump
+
+```
+
+
+Restore:
+
+```
+
+psql wordpress_db < /tmp/wordpress_db.dump
+
+```
