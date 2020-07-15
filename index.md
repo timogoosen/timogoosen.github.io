@@ -42,7 +42,19 @@ These are my personal notes while my wiki is being migrated and down.
 
 ## AWS
 
+
+### ECR:
+
+* [Tag and Push image to ECR](https://dev.to/wingkwong/how-to-push-a-docker-image-to-amazon-ecr-186g)
+
+
+### ACM:
+
 * [Use AWS Certificate Manager](https://timogoosen.github.io/AWS_CERTIFICATE_MANAGER)
+
+
+
+
 
 ### Cost Savings
 
