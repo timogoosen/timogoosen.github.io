@@ -52,6 +52,10 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [Use AWS Certificate Manager](https://timogoosen.github.io/AWS_CERTIFICATE_MANAGER)
 
+### EKS:
+
+* [EKS Fargate Test if cluster is working](https://aws.amazon.com/blogs/aws/amazon-eks-on-aws-fargate-now-generally-available/)
+
 
 
 
