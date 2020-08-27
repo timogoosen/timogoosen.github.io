@@ -58,7 +58,9 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [EKS Fargate Test if cluster is working](https://aws.amazon.com/blogs/aws/amazon-eks-on-aws-fargate-now-generally-available/)
 
+### ECS:
 
+* [Enable Long Format ARN ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-modifying-longer-id-settings.html)
 
 
 
