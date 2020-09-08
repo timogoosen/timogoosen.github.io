@@ -61,7 +61,7 @@ These are my personal notes while my wiki is being migrated and down.
 ### ECS:
 
 * [Enable Long Format ARN ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-modifying-longer-id-settings.html)
-
+* [ECS Error Long ARN Format](https://timogoosen.github.io/ECS.md)
 
 
 ### Cost Savings
