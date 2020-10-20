@@ -32,3 +32,12 @@ Will output something like:
 +--------------------------+--------------------------------+-------------------------+
 
 ```
+
+
+See here for more info:
+
+
+* [Debian AMIs on Debian Wiki](https://wiki.debian.org/Amazon/EC2/HowTo/awscli)
+
+
+The default username should be "admin".
