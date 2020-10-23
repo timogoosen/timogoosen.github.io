@@ -28,6 +28,7 @@ These are my personal notes while my wiki is being migrated and down.
 ## Bash
 
 * [How to calculate Elapsed Time in Bash](https://unix.stackexchange.com/questions/314365/get-elapsed-time-in-bash)
+* [Handy One Liners](https://timogoosen.github.io/BASH)
 
 
 ## Ansible
