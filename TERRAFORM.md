@@ -5,6 +5,14 @@ Validate Terraform code:
 $ terraform validate
 ```
 
+## Quick Reference:
+
+* [Load Secrets Manager secret from KMS](https://timogoosen.github.io/SECRETS_MANAGER_FROM_KMS)
+
+
+
+
+
 Lint Terraform code:
 ```
 $ terraform fmt -ls
