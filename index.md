@@ -108,6 +108,8 @@ These are my personal notes while my wiki is being migrated and down.
 ### Terraform:
 
 * [Cool Terraform Cheatsheet](https://timogoosen.github.io/TERRAFORM)
+* [Secret manager from KMS in Terraform](https://timogoosen.github.io/SECRETS_MANAGER_FROM_KMS)
+
 
 #### AWS:
 
@@ -163,3 +165,8 @@ These are my personal notes while my wiki is being migrated and down.
 ## LXC
 
 * [LXC Commands](https://timogoosen.github.io/LXC)
+
+
+## Datadog:
+
+* [Setup Lambda](https://timogoosen.github.io/LXC)
