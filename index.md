@@ -109,6 +109,8 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [Cool Terraform Cheatsheet](https://timogoosen.github.io/TERRAFORM)
 * [Secret manager from KMS in Terraform](https://timogoosen.github.io/SECRETS_MANAGER_FROM_KMS)
+* [Terraform AWS Examples](https://timogoosen.github.io/TERRAFORM_AWS_EXAMPLES)
+
 
 
 #### AWS:
