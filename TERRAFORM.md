@@ -10,13 +10,6 @@ $ terraform validate
 * [Load Secrets Manager secret from KMS](https://timogoosen.github.io/SECRETS_MANAGER_FROM_KMS)
 
 
-## AWS Examples:
-
-
-
-* [MySQL Replication RDS Example](https://github.com/terraform-aws-modules/terraform-aws-rds/blob/master/examples/replica-mysql/main.tf)
-* [MySQL Without Replication Example RDS](https://github.com/terraform-aws-modules/terraform-aws-rds/blob/master/examples/complete-mysql/main.tf)
-
 
 Lint Terraform code:
 ```
@@ -60,3 +53,16 @@ $ terraform destroy -target module.acm_dev3.aws_acm_certificate.main_virginia -t
 ```
 
 
+Use specific PR in terraform module:
+
+```
+source = "git@github.com:timogoosen/some-terraform-module?ref=CPE1048"
+
+```
+
+Then 
+
+```
+terraform init
+
+```
