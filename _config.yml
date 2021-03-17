@@ -1,2 +1,2 @@
 theme: jekyll-theme-hacker
-include: ./well-known
+include: [.well-known]
