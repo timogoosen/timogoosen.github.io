@@ -29,6 +29,6 @@ Shortcut get all pods in all namespaces:
 
 ```
 
-kubectl get -A pod
+kubectl get pods -A
 
 ```
