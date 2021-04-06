@@ -105,6 +105,12 @@ These are my personal notes while my wiki is being migrated and down.
 * [Deploying Kubernetes with KOPS and EKSCTL Tutorial](https://www.swipeix.com/blog/deploying-and-managing-kubernetes-on-aws)
 * [EKSCTL Howto](https://timogoosen.github.io/EKSCTL)
 * [KOPS Howto](https://timogoosen.github.io/KOPS)
+* [Kubectl cheatsheet](https://timogoosen.github.io/KUBECTL)
+
+### Kubernetes + Terraform
+
+* [Use terraform to manage Kubernetes objects as opposed to using plain yaml or Helm Chart Reddit Post](https://www.reddit.com/r/kubernetes/comments/m96gx1/does_anyone_use_terraform_to_manage_kubernetes/)
+
 
 ### Terraform:
 
