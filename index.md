@@ -3,6 +3,15 @@
 * [Conference Presentations](https://timogoosen.github.io/PRESENTATIONS)
 
 
+## Crypto Stuff
+
+Anything crypto related goes here.
+
+### Brave Rewards and BAT Tokens
+
+* [Brave Rewards for Github pages site](https://chrisruppel.com/blog/brave-rewards-github-pages/)
+
+
 
 ## DevOps Notes
 
