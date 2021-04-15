@@ -25,3 +25,22 @@ Create branch off another branch:
 git checkout -b my-feature-branch master
 
 ```
+
+
+### Submodule commands:
+
+Pull changes to submodule after cloning:
+
+
+
+
+```
+
+git clone git://github.com/foo/bar.git
+
+cd bar
+
+git submodule update --init --recursive
+
+
+```
