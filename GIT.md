@@ -49,3 +49,11 @@ git submodule update --init --recursive
 
 
 ```
+
+Pull new changes from submodule/s
+
+```
+
+git submodule update --remote --merge
+
+```
