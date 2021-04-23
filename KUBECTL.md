@@ -32,3 +32,11 @@ Shortcut get all pods in all namespaces:
 kubectl get pods -A
 
 ```
+
+View resources (memory and CPU on a pod):
+
+```
+
+kubectl get pod prod-some-app-chrt-prod-only-1619163300-xljjl -o yaml
+
+```
