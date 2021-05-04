@@ -11,7 +11,8 @@ They are:
 List user profiles in ~/.aws/credentials: (Bit hacky)
 
 ```
-$ cat ~/.aws/credentials | grep -o '\[[^]]*\]'
+$ grep -o '\[[^]]*\]' < $HOME/.aws/credentials | sed 's/^\[\(.*\)\]$/\1/'
+
 
 [default]
 [TIMO]
