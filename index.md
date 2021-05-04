@@ -55,6 +55,9 @@ These are my personal notes while my wiki is being migrated and down.
 ## AWS
 
 
+* [AWS CLI Cheatsheet Both AWS CLI Version 1.9 and Version 2](https://timogoosen.github.io/AWS-CLI)
+
+
 ### ECR:
 
 * [Tag and Push image to ECR](https://dev.to/wingkwong/how-to-push-a-docker-image-to-amazon-ecr-186g)
