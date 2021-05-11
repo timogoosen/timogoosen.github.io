@@ -1,5 +1,10 @@
 ## PSQL Stuf
 
+* [Useful Postgresql Notes/Cheatsheet](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
+
+
+
+
 Connect to remote postgres with SSH tunneling:
 
 ```
@@ -44,3 +49,12 @@ Restore:
 psql wordpress_db < /tmp/wordpress_db.dump
 
 ```
+
+
+
+
+
+
+
+
+
