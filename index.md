@@ -15,6 +15,10 @@ Anything crypto related goes here.
 * [Brave Rewards for Github pages site](https://chrisruppel.com/blog/brave-rewards-github-pages/)
 
 
+### OSX
+
+* [Magic Mouse Consistantly Laggy](https://www.reddit.com/r/mac/comments/ak0rdi/lagging_magic_mouse/)
+
 
 ## DevOps Notes
 
