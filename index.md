@@ -5,10 +5,19 @@
 
 ## Crypto Stuff
 
+Anything crypto related goes here.
+
+### Ethereum
 
 * [List of sites to Swop ERC tokens](https://dexindex.io/)
 
-Anything crypto related goes here.
+### Solidity
+
+* [When to use Pure and when to use View](https://ethereum.stackexchange.com/questions/28898/when-to-use-view-and-pure-in-place-of-constant)
+
+
+
+
 
 ### Brave Rewards and BAT Tokens
 
