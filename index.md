@@ -13,6 +13,7 @@ Anything crypto related goes here.
 
 ### Solidity
 
+* [My own Solidity Notes](https://timogoosen.github.io/SOLIDITY)
 * [When to use Pure and when to use View](https://ethereum.stackexchange.com/questions/28898/when-to-use-view-and-pure-in-place-of-constant)
 
 
@@ -23,6 +24,10 @@ Anything crypto related goes here.
 
 * [Brave Rewards for Github pages site](https://chrisruppel.com/blog/brave-rewards-github-pages/)
 
+
+### Pentesting 
+
+* [My penetration testing Wiki Notes](https://timogoosen.github.io/PENTESTING)
 
 ### OSX
 
