@@ -21,6 +21,9 @@ Anything crypto related goes here.
 * [When to use Pure and when to use View](https://ethereum.stackexchange.com/questions/28898/when-to-use-view-and-pure-in-place-of-constant)
 
 
+### Mining
+
+* [Crypto Mining CPU and GPU](https://timogoosen.github.io/MINING)
 
 
 
