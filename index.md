@@ -32,6 +32,11 @@ Anything crypto related goes here.
 * [Brave Rewards for Github pages site](https://chrisruppel.com/blog/brave-rewards-github-pages/)
 
 
+#### Text Editors:
+
+* [NeoVim Setup](https://timogoosen.github.io/NEOVIM)
+
+
 ### Pentesting 
 
 * [My penetration testing Wiki Notes](https://timogoosen.github.io/PENTESTING)
