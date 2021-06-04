@@ -1,5 +1,7 @@
 ## Terraform Cheatsheet
 
+* [My Terraform Local Dev Setup](https://timogoosen.github.io/TERRAFORM_SETUP)
+
 Validate Terraform code:
 ```
 $ terraform validate
