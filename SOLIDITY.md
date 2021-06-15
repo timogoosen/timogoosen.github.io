@@ -1,3 +1,9 @@
+## Solidity Concepts:
+
+* [Flash Loans how they work Aave Docs](https://docs.aave.com/faq/flash-loans)
+* [Aave Protocol Flash Loans Deveoloper Docs](https://docs.aave.com/developers/guides/flash-loans)
+
+
 ### Solidity Language Reference:
 
 * [Using an interface to call functions from other contracts Cryptokittie Example](https://cryptozombies.io/en/lesson/2/chapter/11)
