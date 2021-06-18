@@ -11,6 +11,17 @@ Articles or presentations by me:
 
 Anything crypto related goes here.
 
+
+### Faucets
+
+* [Polygon Faucet](https://matic.supply/)
+
+## Ethereum Chains
+
+* [My Polygon Bookmarks and Notes](https://timogoosen.github.io/MATIC)
+
+
+
 ### Defi
 
 * [My Personal Defi Notes and Bookmarks](https://timogoosen.github.io/DEFI)

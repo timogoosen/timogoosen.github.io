@@ -41,3 +41,27 @@ not-testing
 
 ```
 
+### Get Current user ARN:
+
+With AWS-CLI Version 1.9:
+
+```
+
+$ aws iam get-user --profile testing-account-full-sqs-access
+{
+    "User": {
+        "Path": "/",
+        "UserName": "timo-test",
+        "UserId": "AIDATLUYLEHUGJNZXHTQF",
+        "Arn": "arn:aws:iam::redacted:user/timo-test",
+        "CreateDate": "2021-05-25T14:36:28Z",
+        "Tags": [
+            {
+                "Key": "testing",
+                "Value": "by hand"
+            }
+        ]
+    }
+}
+
+```
