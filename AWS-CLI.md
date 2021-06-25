@@ -65,3 +65,12 @@ $ aws iam get-user --profile testing-account-full-sqs-access
 }
 
 ```
+
+### Download Cloudwatch logs to local:
+
+This downloads cloudwatch logs in text so you can grep through them locally:
+
+
+```
+aws logs get-log-events --log-group-name prod-app --log-stream-name nginx/nginx/be7486d3666e46979d596e92cf438154 --output text > a.log --profile prod-app
+```

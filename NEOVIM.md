@@ -34,3 +34,8 @@ Configs:
 vim ~/.config/nvim/init.vim
 
 ```
+
+
+### Syntax Highlighting I use:
+
+* [Nginx config Syntax highlight](https://github.com/chr4/nginx.vim)
