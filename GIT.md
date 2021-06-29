@@ -57,3 +57,16 @@ Pull new changes from submodule/s
 git submodule update --remote --merge
 
 ```
+
+Fix merge conflict in submodule:
+
+
+* [Fix Merge conflict in Submodule](https://stackoverflow.com/questions/826715/how-do-i-manage-conflicts-with-git-submodules)
+
+Basically:
+
+```
+
+git checkout master submodule-dir/
+
+```

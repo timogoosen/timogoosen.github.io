@@ -6,7 +6,7 @@ My neovim notes.
 ### Other people's Impressive Setup Tutorials
 
 
-
+* [Really Impressive Neovim Setup with Beautiful Nerdtree Config](https://medium.com/life-at-moka/step-up-your-game-with-neovim-62ba814166d7)
 * [JDhao Centos Neovim Setup and Install Guide](https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/)
 
 
