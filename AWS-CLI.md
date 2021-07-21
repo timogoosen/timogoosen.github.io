@@ -74,3 +74,21 @@ This downloads cloudwatch logs in text so you can grep through them locally:
 ```
 aws logs get-log-events --log-group-name prod-app --log-stream-name nginx/nginx/be7486d3666e46979d596e92cf438154 --output text > a.log --profile prod-app
 ```
+
+
+
+
+### AWS S3
+
+Bulk rename stuff based on prefix /mix of regex:
+
+
+Moves any files with this name format: 
+
+20210715T125704Z_20210715T125734Z_3207c6ea.log.gz into folder 20210715/ 
+```
+
+
+aws s3 mv s3://cloudflare-access-logs/cloudflare-logpush/website.co.ug/ s3://cloudflare-access-logs/cloudflare-logpush/website.co.ug/20210715/ --recursive --exclude="*" --include "20210715T*.log.gz" --dryrun --profile cloudflare-stuff
+
+```
