@@ -1,6 +1,13 @@
 ###  Docker
 
-Cheathseets:
+
+### MultiArch Builds
+
+* [Docker build cache sharing on multi hosts with Buildkit buildx](https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e)
+* [Build Multi Arch Images with EC2 Gravitron](https://www.inqdo.com/docker-images-with-aws-graviton/?lang=en)
+
+
+#### Cheathseets:
 
 * [Cleanup Docker images and containers locally](https://gist.github.com/beeman/aca41f3ebd2bf5efbd9d7fef09eac54d)
 * [Ultimate Docker Cheat Sheet by Ruan Bekker](https://gist.github.com/ruanbekker/4e8e4ca9b82b103973eaaea4ac81aa5f)

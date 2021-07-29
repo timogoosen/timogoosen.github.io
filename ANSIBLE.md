@@ -39,6 +39,37 @@ ansible web -m ping
 ```
 
 
-### Debops
+### Install packages based on architecture:
 
-Can be used instead of ansible-playbook command.
+This will install a package based on the architecture:
+
+```
+- name: install mysql-client
+  apt:
+    name: mysql-community-client
+    state: latest
+  become: yes
+  when: ansible_architecture == "x86_64"
+
+# Since mysql-client isn't available here just install mariadb-client instead
+- name: install Mariadb-client
+  apt:
+    name: mariadb-client
+    state: latest
+  become: yes
+  when: ansible_architecture == "aarch64"
+
+```
+
+
+# Ansible How to source ~/.bashrc 
+
+This example does source ~/.sdkman/bin/sdkman-init.sh:
+
+```
+- name: Installing gradle with sdkman
+  shell: "source /home/admin/.sdkman/bin/sdkman-init.sh && sdk install gradle {{gradle_version}}"
+  args:
+    executable: /bin/bash
+
+```

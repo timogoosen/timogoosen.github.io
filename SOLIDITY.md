@@ -14,6 +14,10 @@
 
 * [Solidity Security](https://timogoosen.github.io/SOLIDITY_SECURITY)
 
+### ERC20 Tokens
+
+* [Creating ERC20 Token OpenZeplin Docs](https://docs.openzeppelin.com/contracts/3.x/erc20)
+
 
 Get and set:
 
