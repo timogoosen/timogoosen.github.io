@@ -63,6 +63,10 @@ Anything crypto related goes here.
 
 ## DevOps Notes
 
+## Jenkins Stuff
+
+* [Jenkins Stuff](https://timogoosen.github.io/JENKINS)
+
 
 
 These are my personal notes while my wiki is being migrated and down.
