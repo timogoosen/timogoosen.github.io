@@ -26,9 +26,16 @@ Anything crypto related goes here.
 
 * [My Personal Defi Notes and Bookmarks](https://timogoosen.github.io/DEFI)
 
+
+### Defi Arbitrage
+
+* [Dex Screener can check prices of tokens accross Chains](https://dexscreener.com/s/polygon)
+* [Lookup Prices Accross Dexes](https://dexindex.io/)
+
 ### Ethereum
 
 * [List of sites to Swop ERC tokens](https://dexindex.io/)
+* [Site for Doing Privacy Things with Ethereum](https://tornado.cash/)
 
 ### Solidity
 
