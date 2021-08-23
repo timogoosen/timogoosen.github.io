@@ -70,6 +70,12 @@ Anything crypto related goes here.
 
 ## DevOps Notes
 
+
+## Android
+
+Mostly my notes related to CI/CD Stuff for Android builds:
+* [Android CI/CD Stuff](https://timogoosen.github.io/ANDROID)
+
 ## Jenkins Stuff
 
 * [Jenkins Stuff](https://timogoosen.github.io/JENKINS)
