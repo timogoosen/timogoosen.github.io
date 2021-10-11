@@ -88,6 +88,7 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [Ultimate Docker Cheat Sheet by Ruan Bekker](https://gist.github.com/ruanbekker/4e8e4ca9b82b103973eaaea4ac81aa5f)
 * [My Docker Resources](https://timogoosen.github.io/DOCKER)
+* [Using Supervisord with docker](https://web.archive.org/web/20200614141959/http://curtisz.com/running-crons-in-docker-with-supervisord-2/)
 
 
 * [Multi stage Builds explained](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
