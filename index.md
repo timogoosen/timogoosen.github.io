@@ -66,6 +66,7 @@ Anything crypto related goes here.
 ### OSX
 
 * [Magic Mouse Consistantly Laggy](https://www.reddit.com/r/mac/comments/ak0rdi/lagging_magic_mouse/)
+* [Making space and doing an upgrade on OSX my personal notes](https://timogoosen.github.io/OSX)
 
 
 ## DevOps Notes
