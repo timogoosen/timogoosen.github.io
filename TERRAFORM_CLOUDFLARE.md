@@ -7,6 +7,7 @@ Notes on using Cloudflare Provider for Terraform
 ## SRV Record:
 
 * [SRV Records in Terraform with Cloudflare](https://www.endpoint.com/blog/2018/06/srv-dns-terraform-cloudflare/)
+* [Official Docs Contain SRV example too](https://registry.terraform.io/providers/cloudflare/cloudflare/latest/docs/resources/record)
 
 Example from article:
 
@@ -14,17 +15,18 @@ Example from article:
 ```
 
 resource "cloudflare_record" "_sip_tls" {
-  domain = "${var.domain}"
-  name   = "_sip._tls.${var.subdomain}"
-  type   = "SRV"
-  data   = {
+  zone_id = var.cloudflare_zone_id
+  name    = "_sip._tls"
+  type    = "SRV"
+
+  data {
     service  = "_sip"
     proto    = "_tls"
-    name     = "${var.subdomain}."
-    priority = 100
-    weight   = 1
+    name     = "terraform-srv"
+    priority = 0
+    weight   = 0
     port     = 443
-    target   = "sipdir.online.lync.com."
+    target   = "example.com"
   }
 }
 
