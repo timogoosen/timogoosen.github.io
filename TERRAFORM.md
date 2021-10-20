@@ -1,6 +1,7 @@
 ## Terraform Cheatsheet
 
 * [My Terraform Local Dev Setup](https://timogoosen.github.io/TERRAFORM_SETUP)
+* [Terraform Upgrade to 1.0 Notes](https://timogoosen.github.io/TERRAFORM_UPGRADE) 
 
 Validate Terraform code:
 ```

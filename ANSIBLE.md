@@ -60,3 +60,16 @@ This will install a package based on the architecture:
   when: ansible_architecture == "aarch64"
 
 ```
+
+
+# Ansible How to source ~/.bashrc 
+
+This example does source ~/.sdkman/bin/sdkman-init.sh:
+
+```
+- name: Installing gradle with sdkman
+  shell: "source /home/admin/.sdkman/bin/sdkman-init.sh && sdk install gradle {{gradle_version}}"
+  args:
+    executable: /bin/bash
+
+```

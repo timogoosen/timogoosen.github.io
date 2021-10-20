@@ -26,9 +26,16 @@ Anything crypto related goes here.
 
 * [My Personal Defi Notes and Bookmarks](https://timogoosen.github.io/DEFI)
 
+
+### Defi Arbitrage
+
+* [Dex Screener can check prices of tokens accross Chains](https://dexscreener.com/s/polygon)
+* [Lookup Prices Accross Dexes](https://dexindex.io/)
+
 ### Ethereum
 
 * [List of sites to Swop ERC tokens](https://dexindex.io/)
+* [Site for Doing Privacy Things with Ethereum](https://tornado.cash/)
 
 ### Solidity
 
@@ -59,9 +66,20 @@ Anything crypto related goes here.
 ### OSX
 
 * [Magic Mouse Consistantly Laggy](https://www.reddit.com/r/mac/comments/ak0rdi/lagging_magic_mouse/)
+* [Making space and doing an upgrade on OSX my personal notes](https://timogoosen.github.io/OSX)
 
 
 ## DevOps Notes
+
+
+## Android
+
+Mostly my notes related to CI/CD Stuff for Android builds:
+* [Android CI/CD Stuff](https://timogoosen.github.io/ANDROID)
+
+## Jenkins Stuff
+
+* [Jenkins Stuff](https://timogoosen.github.io/JENKINS)
 
 
 
@@ -71,6 +89,7 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [Ultimate Docker Cheat Sheet by Ruan Bekker](https://gist.github.com/ruanbekker/4e8e4ca9b82b103973eaaea4ac81aa5f)
 * [My Docker Resources](https://timogoosen.github.io/DOCKER)
+* [Using Supervisord with docker](https://web.archive.org/web/20200614141959/http://curtisz.com/running-crons-in-docker-with-supervisord-2/)
 
 
 * [Multi stage Builds explained](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
