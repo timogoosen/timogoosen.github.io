@@ -106,6 +106,7 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [How to calculate Elapsed Time in Bash](https://unix.stackexchange.com/questions/314365/get-elapsed-time-in-bash)
 * [Handy One Liners](https://timogoosen.github.io/BASH)
+* [Handy Bash Stuff commonly used in CI/CD](https://timogoosen.github.io/BASH_CICD)
 
 
 ## Ansible
