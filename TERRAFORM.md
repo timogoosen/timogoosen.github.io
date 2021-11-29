@@ -86,3 +86,30 @@ Then
 terraform init
 
 ```
+
+
+#### Use Remote state with local:
+
+
+Here is an example to use remote state by declaring it as a local.
+
+
+```
+
+locals {
+  main_public_https_cert_arn = data.terraform_remote_state.base_environment.outputs.acm_staging_arn
+
+}
+```
+
+Here we reference the local which references the remote state:
+
+```
+
+resource "aws_lb_listener" "main_public_https" {
+...
+
+  certificate_arn   = local.main_public_https_cert_arn
+
+
+```
