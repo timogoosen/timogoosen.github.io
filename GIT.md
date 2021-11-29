@@ -70,3 +70,7 @@ Basically:
 git checkout master submodule-dir/
 
 ```
+
+Fetch repo and all branches
+
+* [Push local Git repo to new remote including all branches and tags](https://stackoverflow.com/questions/6865302/push-local-git-repo-to-new-remote-including-all-branches-and-tags)
