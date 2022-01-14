@@ -41,7 +41,7 @@ Anything crypto related goes here.
 
 * [Solidity Notes](https://timogoosen.github.io/SOLIDITY)
 * [When to use Pure and when to use View](https://ethereum.stackexchange.com/questions/28898/when-to-use-view-and-pure-in-place-of-constant)
-* [Web3py Python Library for interacting with Smart Contracts Notes](https://timogoosen.github.io/WEB3PY.md)
+* [Web3py Python Library for interacting with Smart Contracts Notes](https://timogoosen.github.io/WEB3PY)
 
 
 
