@@ -133,6 +133,7 @@ These are my personal notes while my wiki is being migrated and down.
 
 * [Boto3 SQS Reader and Witer](https://timogoosen.github.io/BOTO3_SQS)
 * [Boto3 SNS Example using profile name and FIFO Queue](https://timogoosen.github.io/BOTO3_SNS)
+* [Boto3 Role ARN Example Assume Role](https://timogoosen.github.io/BOTO3)
 
 ### ECR:
 
