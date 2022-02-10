@@ -81,6 +81,7 @@ Mostly my notes related to CI/CD Stuff for Android builds:
 
 ## Jenkins Stuff
 
+* [Jenkins Download Binary Secret file stored in Credential Store](https://stackoverflow.com/questions/51524613/how-do-i-download-a-jenkins-secret-file-from-the-credential-store)
 * [Jenkins Stuff](https://timogoosen.github.io/JENKINS)
 
 
