@@ -92,3 +92,29 @@ Moves any files with this name format:
 aws s3 mv s3://cloudflare-access-logs/cloudflare-logpush/website.co.ug/ s3://cloudflare-access-logs/cloudflare-logpush/website.co.ug/20210715/ --recursive --exclude="*" --include "20210715T*.log.gz" --dryrun --profile cloudflare-stuff
 
 ```
+
+
+### Encrypt URL with KMS
+
+Normally if you try encrypt a url with KMS you would get the error:
+
+```
+Error parsing parameter '--plaintext': Unable to retrieve
+```
+
+I found this useful issue on github, explaining how to do it:
+
+* [Encrypt URL with KMS](https://github.com/aws/aws-cli/issues/2867)
+
+
+```
+
+  aws \
+    --profile "testing" \
+    kms encrypt \
+    --key-id "$KEY" \
+    --plaintext fileb://<(echo -n 'https://hooks.slack.com/workflows/supersecretstuff/urlissecret') \
+    --output text \
+    --query CiphertextBlob
+
+```
