@@ -279,3 +279,8 @@ These are my personal notes while my wiki is being migrated and down.
 ## Datadog:
 
 * [Setup Lambda](https://timogoosen.github.io/LXC)
+
+
+## Visual Studio Code
+
+* [Open same project in two Windows](https://stackoverflow.com/questions/49707703/open-the-same-directory-twice)
