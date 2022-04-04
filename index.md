@@ -44,6 +44,12 @@ Anything crypto related goes here.
 * [Web3py Python Library for interacting with Smart Contracts Notes](https://timogoosen.github.io/WEB3PY)
 
 
+### Solidity Learning
+
+* [Defi Developer Road map Guide Very good Guide](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+* [Openzeplin Solidity Wargames Walkthrough](https://medium.com/authio/solidity-ctf-part-2-safe-execution-ad6ded20e042)
+* [Speedrun Ethereum Project part of Scaffold-eth](https://speedrunethereum.com/)
+* [Very good Solidity Language Overview Youtube Video Very Detailed](https://www.youtube.com/watch?v=ipwxYa-F1uY)
 
 ### Mining
 
