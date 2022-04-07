@@ -117,6 +117,7 @@ These are my personal notes while my wiki is being migrated and down.
 * [How to calculate Elapsed Time in Bash](https://unix.stackexchange.com/questions/314365/get-elapsed-time-in-bash)
 * [Handy One Liners and scripts](https://timogoosen.github.io/BASH)
 * [Handy Bash Stuff commonly used in CI/CD](https://timogoosen.github.io/BASH_CICD)
+* [Replace entire line in text file with some text using bash](https://stackoverflow.com/questions/11145270/how-to-replace-an-entire-line-in-a-text-file-by-line-number)
 
 
 ## Ansible
