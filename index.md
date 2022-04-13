@@ -126,6 +126,7 @@ These are my personal notes while my wiki is being migrated and down.
 * [Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG)
 * [Getting back into Ansible](https://medium.com/devopsontheblock/getting-back-into-ansible-5aa22913cda)
 * [Excellent Guide for Using Ansible Galaxy to do Boiler Plate Stuff etc](https://www.howtoforge.com/ansible-guide-create-ansible-playbook-for-lemp-stack/)
+* [Manage Linux Users with Ansible using Github SSH Keys](https://serverfault.com/questions/830302/ensure-only-specific-list-of-users-exist-with-ansible)
 
 
 ### Ansible Tower
