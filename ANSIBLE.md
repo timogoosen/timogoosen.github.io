@@ -73,3 +73,25 @@ This example does source ~/.sdkman/bin/sdkman-init.sh:
     executable: /bin/bash
 
 ```
+
+
+## Specify branch in requirements.yml
+
+Something like this:
+
+```
+
+- src: git@github.com:timogoosen/ansible-role.git
+  name: base
+  scm: git
+  version: CPE-1475
+
+```
+
+Can then test installing it like this(On the remote host):
+
+```
+
+ansible-galaxy install -r requirements.yml
+
+```
