@@ -88,7 +88,7 @@ Something like this:
 
 ```
 
-Can then test installing it like this(On the remote host):
+Can then test installing it like this(Locally, not on remote host):
 
 ```
 
