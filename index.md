@@ -122,7 +122,8 @@ These are my personal notes while my wiki is being migrated and down.
 
 ## Ansible
 
-* [Ansible or Debops Tricks](https://timogoosen.github.io/ANSIBLE)
+* [Ansible Tricks](https://timogoosen.github.io/ANSIBLE)
+* [Testing Ansible Code on remote host](https://timogoosen.github.io/ANSIBLE_TESTING)
 * [Debuging stuff](https://timogoosen.github.io/ANSIBLE-DEBUG)
 * [Getting back into Ansible](https://medium.com/devopsontheblock/getting-back-into-ansible-5aa22913cda)
 * [Excellent Guide for Using Ansible Galaxy to do Boiler Plate Stuff etc](https://www.howtoforge.com/ansible-guide-create-ansible-playbook-for-lemp-stack/)
