@@ -80,6 +80,10 @@ Anything crypto related goes here.
 ## DevOps Notes
 
 
+## GCP Stuff
+
+* [GCP Notes Mostly GCP CLI](https://timogoosen.github.io/GCP)
+
 ## Android
 
 Mostly my notes related to CI/CD Stuff for Android builds:
