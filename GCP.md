@@ -1,9 +1,13 @@
 ### Notes on GCP
 
-
+Some notes on GCP.
 
 
 ### KMS
+
+KMS Secret Terraform Provider
+
+* [KMS Secret Terraform Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs/data-sources/kms_secret)
 
 KMS Encrypt secret on the CLI:
 
