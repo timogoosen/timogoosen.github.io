@@ -80,6 +80,11 @@ Anything crypto related goes here.
 ## DevOps Notes
 
 
+## Gitlab CI Stuff
+
+* [Run CI on merge request and other part only on merge to master branch](https://stackoverflow.com/questions/44162500/run-gitlab-ci-yml-only-when-merge-request-to-master-made)
+
+
 ## GCP Stuff
 
 * [GCP Notes Mostly GCP CLI](https://timogoosen.github.io/GCP)
