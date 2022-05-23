@@ -84,6 +84,10 @@ Anything crypto related goes here.
 
 * [GCP Notes Mostly GCP CLI](https://timogoosen.github.io/GCP)
 
+### GCP and Terraform
+
+* [GCP + Terraform Service account Setup Guide Very handy Guide](https://github.com/cardsec/gcp-pci-terraform)
+
 ## Android
 
 Mostly my notes related to CI/CD Stuff for Android builds:
