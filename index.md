@@ -141,6 +141,7 @@ These are my personal notes while my wiki is being migrated and down.
 * [Getting back into Ansible](https://medium.com/devopsontheblock/getting-back-into-ansible-5aa22913cda)
 * [Excellent Guide for Using Ansible Galaxy to do Boiler Plate Stuff etc](https://www.howtoforge.com/ansible-guide-create-ansible-playbook-for-lemp-stack/)
 * [Manage Linux Users with Ansible using Github SSH Keys](https://serverfault.com/questions/830302/ensure-only-specific-list-of-users-exist-with-ansible)
+* [Get Public SSH Key for gitlab github or bitbucket user with Curl](https://stackoverflow.com/questions/16158158/what-is-the-public-url-for-the-github-public-keys)
 
 
 ### Ansible Tower
@@ -227,6 +228,7 @@ These are my personal notes while my wiki is being migrated and down.
 ### Terraform:
 
 * [Cool Terraform Cheatsheet](https://timogoosen.github.io/TERRAFORM)
+* [Using Terraform in PCI-DSS Environment](https://www.reddit.com/r/Terraform/comments/usm8s8/anyone_usinf_terraform_in_pcidss_environment/?utm_medium=android_app&utm_source=share)
 
 
 #### Terraform and AWS:
