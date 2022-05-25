@@ -88,6 +88,7 @@ Anything crypto related goes here.
 ## GCP Stuff
 
 * [GCP Notes Mostly GCP CLI](https://timogoosen.github.io/GCP)
+* [Only GCloud CLI Stuff](https://timogoosen.github.io/GCP_CLI)
 
 ### GCP and Terraform
 
@@ -215,10 +216,16 @@ These are my personal notes while my wiki is being migrated and down.
 
 ## Kubernetes:
 
+* [Cert manager for auto cert creation and renewal useful blogpost][https://medium.com/dzerolabs/how-to-renew-lets-encrypt-certificates-managed-by-cert-manager-on-kubernetes-2a74f9a0975d]
+
+
 * [Deploying Kubernetes with KOPS and EKSCTL Tutorial](https://www.swipeix.com/blog/deploying-and-managing-kubernetes-on-aws)
 * [EKSCTL Howto](https://timogoosen.github.io/EKSCTL)
 * [KOPS Howto](https://timogoosen.github.io/KOPS)
 * [Kubectl cheatsheet](https://timogoosen.github.io/KUBECTL)
+
+
+
 
 ### Kubernetes + Terraform
 
