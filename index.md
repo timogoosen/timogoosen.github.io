@@ -217,12 +217,18 @@ These are my personal notes while my wiki is being migrated and down.
 ## Kubernetes:
 
 * [Cert manager for auto cert creation and renewal useful blogpost][https://medium.com/dzerolabs/how-to-renew-lets-encrypt-certificates-managed-by-cert-manager-on-kubernetes-2a74f9a0975d]
+* [Cert Manager example showing Cloudflare + Letsencrypt](https://medium.com/devops-techable/install-cert-manager-to-setup-ssl-with-lets-encrypt-and-cloudflare-dns-with-automatic-renewal-81477bb08423)
 
+### EKS Stuff
 
 * [Deploying Kubernetes with KOPS and EKSCTL Tutorial](https://www.swipeix.com/blog/deploying-and-managing-kubernetes-on-aws)
 * [EKSCTL Howto](https://timogoosen.github.io/EKSCTL)
 * [KOPS Howto](https://timogoosen.github.io/KOPS)
+
+
+### KubeCTL and Debugging Stuff
 * [Kubectl cheatsheet](https://timogoosen.github.io/KUBECTL)
+* [Debugging pods and Debugging tips like interactive pods](https://timogoosen.github.io/KUBECTL_DEBUG)
 
 
 
