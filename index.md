@@ -89,7 +89,7 @@ Anything crypto related goes here.
 ## GCP Stuff
 
 * [GCP Notes Mostly GCP CLI](https://timogoosen.github.io/GCP)
-* [Only GCloud CLI Stuff](https://timogoosen.github.io/GCP_CLI)
+* [Only GCloud CLI Stuff](https://timogoosen.github.io/GCLOUD_CLI)
 * [Using Multiple Service Accounts with GCloud CLI](https://stackoverflow.com/questions/44820119/how-to-use-multiple-service-accounts-with-gcloud)
 * [Gcloud CLI Config guide](https://www.jhanley.com/google-cloud-understanding-gcloud-configurations/#:~:text=A%20gcloud%20configuration%20is%20a,configuration%20named%20default%20is%20created.&text=The%20creation%20of%20a%20configuration%20can%20be%20accomplished%20with%20gcloud%20or%20manually.)
 
