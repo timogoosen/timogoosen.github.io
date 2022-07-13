@@ -7,3 +7,17 @@
 Maintenence stuff:
 
 * [Rake cleanup tasks](https://docs.gitlab.com/ee/raketasks/cleanup.html)
+
+
+### General
+
+
+The general gitlab config file:
+
+```
+
+# vim /etc/gitlab/gitlab.rb
+
+```
+
+
