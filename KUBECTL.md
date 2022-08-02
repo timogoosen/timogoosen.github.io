@@ -1,5 +1,14 @@
 ## Kubectl Cheatsheet
 
+
+List container images on K8's cluster:
+
+```
+
+for image in $(kubectl get pods --all-namespaces --output=jsonpath='{..image}'); do     echo $image; done
+
+```
+
 Open shell in container in namespace:
 
 ```

@@ -12,6 +12,11 @@ Articles or presentations by me:
 Anything crypto related goes here.
 
 
+### ENS Names
+
+* [Allowing people to claim subdomains on your domain](https://newsletter.banklesshq.com/p/how-to-maximize-your-ens-domain?s=08)
+
+
 ### Faucets
 
 * [Polygon Faucet](https://matic.supply/)
@@ -228,6 +233,11 @@ These are my personal notes while my wiki is being migrated and down.
 * [Deploying Kubernetes with KOPS and EKSCTL Tutorial](https://www.swipeix.com/blog/deploying-and-managing-kubernetes-on-aws)
 * [EKSCTL Howto](https://timogoosen.github.io/EKSCTL)
 * [KOPS Howto](https://timogoosen.github.io/KOPS)
+
+
+### Kubernetes Concepts
+
+* [Kubernetes Secrets and Related Tutorials](https://timogoosen.github.io/K8S_SECRETS)
 
 
 ### KubeCTL and Debugging Stuff
