@@ -49,3 +49,14 @@ View resources (memory and CPU on a pod):
 kubectl get pod prod-some-app-chrt-prod-only-1619163300-xljjl -o yaml
 
 ```
+
+
+### Deleting stuff:
+
+
+Delete all resources in a given namespace:
+
+```
+kubectl delete all --all -n test-namespace
+
+```

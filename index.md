@@ -7,6 +7,12 @@ Articles or presentations by me:
 
 
 
+### Prayers
+
+* [Prayer against povery and lack](https://timogoosen.github.io/POVERTY)
+
+
+
 ## Crypto Stuff
 
 Anything crypto related goes here.
@@ -98,6 +104,7 @@ Anything crypto related goes here.
 * [Using Multiple Service Accounts with GCloud CLI](https://stackoverflow.com/questions/44820119/how-to-use-multiple-service-accounts-with-gcloud)
 * [Gcloud CLI Config guide](https://www.jhanley.com/google-cloud-understanding-gcloud-configurations/#:~:text=A%20gcloud%20configuration%20is%20a,configuration%20named%20default%20is%20created.&text=The%20creation%20of%20a%20configuration%20can%20be%20accomplished%20with%20gcloud%20or%20manually.)
 * [GCP Logging Query Language Cheat Sheet and Handy Examples](https://timogoosen.github.io/GCP_LOG_QUERY)
+* [How to get Control Plane CIDR](https://stackoverflow.com/questions/65890067/how-to-find-control-plane-ip-addresses-for-a-regional-gke-cluster)
 
 ### GCP and Terraform
 
@@ -122,6 +129,14 @@ These are my personal notes while my wiki is being migrated and down.
 * [Ultimate Docker Cheat Sheet by Ruan Bekker](https://gist.github.com/ruanbekker/4e8e4ca9b82b103973eaaea4ac81aa5f)
 * [My Docker Resources](https://timogoosen.github.io/DOCKER)
 * [Using Supervisord with docker](https://web.archive.org/web/20200614141959/http://curtisz.com/running-crons-in-docker-with-supervisord-2/)
+
+
+### Docker compose
+
+Some notes to get certain things going very quickly in docker-compose.
+For example mysql, redis etc.
+
+* [My Docker Compose Cheatsheet](https://timogoosen.github.io/DOCKER_COMPOSE)
 
 
 * [Multi stage Builds explained](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
