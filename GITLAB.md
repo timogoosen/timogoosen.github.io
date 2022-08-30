@@ -72,3 +72,15 @@ DOCKER_AUTH_CONFIG
 ```
 
 
+### Create secret in Kubernetes to pull from gitlab private registry:
+
+
+```
+
+
+kubectl -n test-app create secret generic gitlab-registry \
+    --from-file=.dockerconfigjson=/tmp/docker.json \
+    --type=kubernetes.io/dockerconfigjson
+
+```
+
