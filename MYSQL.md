@@ -19,3 +19,12 @@ mysqldump -h hostname-of-the-server -u mysql_user -p database_name > file.sql
 
 ```
 
+#### Grant syntax:
+
+
+```
+
+GRANT ALL PRIVILEGES ON database_name.* TO 'username'@'localhost';
+
+```
+
