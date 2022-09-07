@@ -240,6 +240,14 @@ For example mysql, redis etc.
 
 ## Kubernetes:
 
+
+### K3s K8s Setup
+
+
+* [K3s Notes](https://timogoosen.github.io/K3s)
+
+
+#### Cert Manager
 * [Cert manager for auto cert creation and renewal useful blogpost](https://medium.com/dzerolabs/how-to-renew-lets-encrypt-certificates-managed-by-cert-manager-on-kubernetes-2a74f9a0975d)
 * [Cert Manager example showing Cloudflare + Letsencrypt](https://medium.com/devops-techable/install-cert-manager-to-setup-ssl-with-lets-encrypt-and-cloudflare-dns-with-automatic-renewal-81477bb08423)
 
