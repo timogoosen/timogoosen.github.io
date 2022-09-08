@@ -285,6 +285,11 @@ For example mysql, redis etc.
 * [Using Terraform in PCI-DSS Environment](https://www.reddit.com/r/Terraform/comments/usm8s8/anyone_usinf_terraform_in_pcidss_environment/?utm_medium=android_app&utm_source=share)
 
 
+#### Terraform and GCP
+
+* [Get up and running with Terraform and GCP in no time](https://timogoosen.github.io/TERRAFORM_GCP)
+
+
 #### Terraform and AWS:
 * [Secret manager from KMS in Terraform](https://timogoosen.github.io/SECRETS_MANAGER_FROM_KMS)
 * [Terraform AWS Examples Using Different Providers](https://timogoosen.github.io/TERRAFORM_AWS_EXAMPLES)
