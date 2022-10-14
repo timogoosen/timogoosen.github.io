@@ -93,6 +93,11 @@ Anything crypto related goes here.
 * [Making space and doing an upgrade on OSX my personal notes](https://timogoosen.github.io/OSX)
 
 
+## PHP General
+
+
+* [Check if PHP Extension is Loaded](https://timogoosen.github.io/PHP_EXTENSION_LOADED)
+
 ## Laravel Notes
 
 * [Artisan Commands](https://timogoosen.github.io/LARAVEL)
@@ -112,8 +117,8 @@ Anything crypto related goes here.
 
 ## GCP Stuff
 
+* [Gcloud CLI CheatSheet](https://timogoosen.github.io/GCLOUD_CLI)
 * [GCP Notes Mostly GCP CLI](https://timogoosen.github.io/GCP)
-* [Only GCloud CLI Stuff](https://timogoosen.github.io/GCLOUD_CLI)
 * [Using Multiple Service Accounts with GCloud CLI](https://stackoverflow.com/questions/44820119/how-to-use-multiple-service-accounts-with-gcloud)
 * [Gcloud CLI Config guide](https://www.jhanley.com/google-cloud-understanding-gcloud-configurations/#:~:text=A%20gcloud%20configuration%20is%20a,configuration%20named%20default%20is%20created.&text=The%20creation%20of%20a%20configuration%20can%20be%20accomplished%20with%20gcloud%20or%20manually.)
 * [GCP Logging Query Language Cheat Sheet and Handy Examples](https://timogoosen.github.io/GCP_LOG_QUERY)

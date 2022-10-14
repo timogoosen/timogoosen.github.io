@@ -1,14 +1,20 @@
 ### Useful Gcloud commands:
 
-Get access token OAUTH:
+
+
+#### Project related commands
+
+
+List available projects:
 
 ```
 
-gcloud auth print-access-token
+gcloud projects list
 
 ```
 
-Set default project:
+
+Set project:
 
 ```
 
@@ -17,6 +23,19 @@ gcloud config set project terraform-base-349707
 
 ```
 
+
+
+#### Auth and Login related:
+
+Get access token OAUTH:
+
+```
+
+gcloud auth print-access-token
+
+```
+
+
 Other login method:
 
 ```
@@ -24,6 +43,8 @@ Other login method:
 gcloud auth login
 
 ```
+
+### GKE / K8s Related:
 
 Login to GKE
 
