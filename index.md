@@ -7,75 +7,12 @@ Articles or presentations by me:
 
 
 
-### Prayers
-
-* [Prayer against povery and lack](https://timogoosen.github.io/POVERTY)
-
 
 ### Credit Card
 
 * [Generate Credit Card Numbers for Testing Purposes](https://www.getcreditcardnumbers.com/)
 
 
-
-## Crypto Stuff
-
-Anything crypto related goes here.
-
-
-### ENS Names
-
-* [Allowing people to claim subdomains on your domain](https://newsletter.banklesshq.com/p/how-to-maximize-your-ens-domain?s=08)
-
-
-### Faucets
-
-* [Polygon Faucet](https://matic.supply/)
-
-## Ethereum Chains
-
-* [My Polygon Bookmarks and Notes](https://timogoosen.github.io/MATIC)
-
-
-
-### Defi
-
-* [My Personal Defi Notes and Bookmarks](https://timogoosen.github.io/DEFI)
-
-
-### Defi Arbitrage
-
-* [Dex Screener can check prices of tokens accross Chains](https://dexscreener.com/s/polygon)
-* [Lookup Prices Accross Dexes](https://dexindex.io/)
-
-### Ethereum
-
-* [List of sites to Swop ERC tokens](https://dexindex.io/)
-* [Site for Doing Privacy Things with Ethereum](https://tornado.cash/)
-
-### Solidity
-
-* [Solidity Notes](https://timogoosen.github.io/SOLIDITY)
-* [When to use Pure and when to use View](https://ethereum.stackexchange.com/questions/28898/when-to-use-view-and-pure-in-place-of-constant)
-* [Web3py Python Library for interacting with Smart Contracts Notes](https://timogoosen.github.io/WEB3PY)
-
-
-### Solidity Learning
-
-* [Defi Developer Road map Guide Very good Guide](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
-* [Openzeplin Solidity Wargames Walkthrough](https://medium.com/authio/solidity-ctf-part-2-safe-execution-ad6ded20e042)
-* [Speedrun Ethereum Project part of Scaffold-eth](https://speedrunethereum.com/)
-* [Very good Solidity Language Overview Youtube Video Very Detailed](https://www.youtube.com/watch?v=ipwxYa-F1uY)
-
-### Mining
-
-* [Crypto Mining CPU and GPU](https://timogoosen.github.io/MINING)
-
-
-
-### Brave Rewards and BAT Tokens
-
-* [Brave Rewards for Github pages site](https://chrisruppel.com/blog/brave-rewards-github-pages/)
 
 
 #### Text Editors:
@@ -107,6 +44,12 @@ Anything crypto related goes here.
 
 
 ## DevOps Notes
+
+
+
+### ZeroSSL
+
+* [Certbot ZeroSSL Stuff](https://timogoosen.github.io/CERTBOT_ZEROSSL)
 
 
 ## Gitlab CI Stuff
@@ -385,3 +328,70 @@ For example mysql, redis etc.
 ## Visual Studio Code
 
 * [Open same project in two Windows](https://stackoverflow.com/questions/49707703/open-the-same-directory-twice)
+
+
+
+
+## Crypto stuff
+
+Crypto stuff goes here
+
+
+## Crypto Stuff
+
+Anything crypto related goes here.
+
+
+### ENS Names
+
+* [Allowing people to claim subdomains on your domain](https://newsletter.banklesshq.com/p/how-to-maximize-your-ens-domain?s=08)
+
+
+### Faucets
+
+* [Polygon Faucet](https://matic.supply/)
+
+## Ethereum Chains
+
+* [My Polygon Bookmarks and Notes](https://timogoosen.github.io/MATIC)
+
+
+
+### Defi
+
+* [My Personal Defi Notes and Bookmarks](https://timogoosen.github.io/DEFI)
+
+
+### Defi Arbitrage
+
+* [Dex Screener can check prices of tokens accross Chains](https://dexscreener.com/s/polygon)
+* [Lookup Prices Accross Dexes](https://dexindex.io/)
+
+### Ethereum
+
+* [List of sites to Swop ERC tokens](https://dexindex.io/)
+* [Site for Doing Privacy Things with Ethereum](https://tornado.cash/)
+
+### Solidity
+
+* [Solidity Notes](https://timogoosen.github.io/SOLIDITY)
+* [When to use Pure and when to use View](https://ethereum.stackexchange.com/questions/28898/when-to-use-view-and-pure-in-place-of-constant)
+* [Web3py Python Library for interacting with Smart Contracts Notes](https://timogoosen.github.io/WEB3PY)
+
+
+### Solidity Learning
+
+* [Defi Developer Road map Guide Very good Guide](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+* [Openzeplin Solidity Wargames Walkthrough](https://medium.com/authio/solidity-ctf-part-2-safe-execution-ad6ded20e042)
+* [Speedrun Ethereum Project part of Scaffold-eth](https://speedrunethereum.com/)
+* [Very good Solidity Language Overview Youtube Video Very Detailed](https://www.youtube.com/watch?v=ipwxYa-F1uY)
+
+### Mining
+
+* [Crypto Mining CPU and GPU](https://timogoosen.github.io/MINING)
+
+
+
+### Brave Rewards and BAT Tokens
+
+* [Brave Rewards for Github pages site](https://chrisruppel.com/blog/brave-rewards-github-pages/)
