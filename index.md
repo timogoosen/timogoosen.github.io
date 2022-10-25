@@ -52,6 +52,31 @@ Articles or presentations by me:
 * [Certbot ZeroSSL Stuff](https://timogoosen.github.io/CERTBOT_ZEROSSL)
 
 
+## Kubernetes General Stuff
+
+
+
+### Kubernetes Secrets
+
+* [Kubernetes Create SSL/TLS Secrets from cert plus key](https://timogoosen.github.io/K8S_SSL_SECRETS)
+
+### Kubernetes Concepts
+
+* [Kubernetes Secrets and Related Tutorials](https://timogoosen.github.io/K8S_SECRETS)
+
+
+### KubeCTL and Debugging Stuff
+* [Kubectl cheatsheet](https://timogoosen.github.io/KUBECTL)
+* [Debugging pods and Debugging tips like interactive pods](https://timogoosen.github.io/KUBECTL_DEBUG)
+
+### Helm
+
+* [Handy Helm Charts](https://timogoosen.github.io/HANDY_HELM)
+
+
+
+
+
 ## Gitlab CI Stuff
 
 * [Run CI on merge request and other part only on merge to master branch](https://stackoverflow.com/questions/44162500/run-gitlab-ci-yml-only-when-merge-request-to-master-made)
@@ -217,22 +242,6 @@ For example mysql, redis etc.
 * [Deploying Kubernetes with KOPS and EKSCTL Tutorial](https://www.swipeix.com/blog/deploying-and-managing-kubernetes-on-aws)
 * [EKSCTL Howto](https://timogoosen.github.io/EKSCTL)
 * [KOPS Howto](https://timogoosen.github.io/KOPS)
-
-
-### Kubernetes Concepts
-
-* [Kubernetes Secrets and Related Tutorials](https://timogoosen.github.io/K8S_SECRETS)
-
-
-### KubeCTL and Debugging Stuff
-* [Kubectl cheatsheet](https://timogoosen.github.io/KUBECTL)
-* [Debugging pods and Debugging tips like interactive pods](https://timogoosen.github.io/KUBECTL_DEBUG)
-
-### Helm
-
-* [Handy Helm Charts](https://timogoosen.github.io/HANDY_HELM)
-
-
 
 
 ### Kubernetes + Terraform
