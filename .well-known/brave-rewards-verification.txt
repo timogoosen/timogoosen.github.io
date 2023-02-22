@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: timogoosen.github.io
-Token: 7693cc625fa0ca5e2c67fb68bc118c192328e34170ef7605688eb03fe0f0d052
+Token: 786f8d8fc7c4bb94a35e5f1a8b7a1259881ee8e79f3ba1f1fc12891acd058f30
