@@ -26,6 +26,8 @@ Articles or presentations by me:
 
 ### OSX
 
+
+* [Get GNU Sed to run as Sed on OSX Just put this in bash_profile](https://stackoverflow.com/a/56007296)
 * [Magic Mouse Consistantly Laggy](https://www.reddit.com/r/mac/comments/ak0rdi/lagging_magic_mouse/)
 * [Making space and doing an upgrade on OSX my personal notes](https://timogoosen.github.io/OSX)
 
@@ -138,6 +140,8 @@ For example mysql, redis etc.
 
 ## Bash
 
+
+* [Work out next git version tag in bash](https://gist.github.com/CSTDev/08c127680e3b5fae38c051da3e489351)
 * [How to calculate Elapsed Time in Bash](https://unix.stackexchange.com/questions/314365/get-elapsed-time-in-bash)
 * [Handy One Liners and scripts](https://timogoosen.github.io/BASH)
 * [Handy Bash Stuff commonly used in CI/CD](https://timogoosen.github.io/BASH_CICD)
