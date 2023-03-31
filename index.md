@@ -27,7 +27,7 @@ Articles or presentations by me:
 ### OSX
 
 
-* [Get GNU Sed to run as Sed on OSX Just put this in bash_profile](https://stackoverflow.com/a/56007296)
+* [Get GSed to run as Sed on OSX in terminal and scripts](https://stackoverflow.com/a/75893176/458711)
 * [Magic Mouse Consistantly Laggy](https://www.reddit.com/r/mac/comments/ak0rdi/lagging_magic_mouse/)
 * [Making space and doing an upgrade on OSX my personal notes](https://timogoosen.github.io/OSX)
 
