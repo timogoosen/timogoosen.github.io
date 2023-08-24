@@ -36,3 +36,21 @@ Can just repeat for different keys till redis memory is at max:
 RedisException with message 'OOM command not allowed when used memory > 'maxmemory'.'
 
 ```
+
+
+More ways to max out the memory of redis:
+
+
+```
+
+
+use Illuminate\Support\Facades\Redis;
+
+$redis = Redis::connection();
+
+
+# Just keep repeating this one
+
+$redis->set('large_daata', str_repeat('h', 1024 * 1024 * 100));
+
+```
