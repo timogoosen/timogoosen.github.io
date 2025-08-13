@@ -28,3 +28,19 @@ GRANT ALL PRIVILEGES ON database_name.* TO 'username'@'localhost';
 
 ```
 
+
+
+### Create db backup all db's one shot:
+
+
+Dump everything locally:
+
+
+```
+
+mkdir ~/mysql-data-backup
+
+mysqldump -u root -p --all-databases > ~/mysql-data-backup/all_databases_backup.sql
+
+
+```

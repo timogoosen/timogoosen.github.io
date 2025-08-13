@@ -63,6 +63,9 @@ Articles or presentations by me:
 ### Kubernetes Secrets
 
 * [Kubernetes Create SSL/TLS Secrets from cert plus key](https://timogoosen.github.io/K8S_SSL_SECRETS)
+* [Using gitlab docker registry or GCP Artifact Registry with K8s and how to setup Secrets for that](https://timogoosen.github.io/REGSECRET)
+
+
 
 ### Kubernetes Concepts
 
