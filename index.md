@@ -7,6 +7,12 @@ Articles or presentations by me:
 
 
 
+### Hacking and Bug boounty
+
+* [Bug Bounty and web pentesting shortcuts](https://timogoosen.github.io/BUGBOUNTY)
+
+
+
 
 ### Credit Card
 
