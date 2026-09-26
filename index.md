@@ -19,6 +19,9 @@ Articles or presentations by me:
 * [Generate Credit Card Numbers for Testing Purposes](https://www.getcreditcardnumbers.com/)
 
 
+### Qbittorrent Notes
+
+* [Qbittorrent Setup and Notes](https://timogoosen.github.io/QBITTORRENT)
 
 
 #### Text Editors:
@@ -36,6 +39,12 @@ Articles or presentations by me:
 * [Get GSed to run as Sed on OSX in terminal and scripts](https://stackoverflow.com/a/75893176/458711)
 * [Magic Mouse Consistantly Laggy](https://www.reddit.com/r/mac/comments/ak0rdi/lagging_magic_mouse/)
 * [Making space and doing an upgrade on OSX my personal notes](https://timogoosen.github.io/OSX)
+
+
+
+### VS Code:
+
+* [https://stackoverflow.com/a/30142010Do a visual diff compare with vs code](https://stackoverflow.com/a/30142010)
 
 
 ## PHP General
