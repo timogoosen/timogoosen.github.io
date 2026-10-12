@@ -24,6 +24,11 @@ Articles or presentations by me:
 * [Qbittorrent Setup and Notes](https://timogoosen.github.io/QBITTORRENT)
 
 
+### Backkup:
+
+* [BackBlaze Commands and setup with rclone instructions](https://timogoosen.github.io/BACKBLAZE)
+
+
 #### Text Editors:
 
 * [NeoVim Setup](https://timogoosen.github.io/NEOVIM)
