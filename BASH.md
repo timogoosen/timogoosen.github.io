@@ -1,3 +1,18 @@
+## Go over each dir in a a directory and update each repo:
+
+Bash one liner to go over every directory in current directory and in each check that they are on master branch and then do git pull origin master:
+
+
+"switch each repo to master and then pull, instead of skipping:"
+
+```
+for d in */; do [ -e "$d/.git" ] || continue; echo "== $d"; git -C "$d" checkout master && git -C "$d" pull origin master; done
+
+```
+
+
+
+
 ### Eternal while loop single line:
 
 Here I'm using it to do a basic healthcheck:
@@ -18,6 +33,7 @@ Here is the resource list:
 bucketone
 buckettwo
 bucketthree
+
 bucketfour
 
 ```
